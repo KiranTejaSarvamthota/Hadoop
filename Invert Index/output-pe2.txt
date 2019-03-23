@@ -1,0 +1,5 @@
+Bye	{file01.txt=1}
+Goodbye	{file02.txt=1}
+Hadoop	{file02.txt=2}
+Hello	{file01.txt=1, file02.txt=1}
+World	{file01.txt=2}
